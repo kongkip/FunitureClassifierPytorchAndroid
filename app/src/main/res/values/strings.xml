@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FurnitureClassifier</string>
+    <string name="prefix">Image shown below is a </string>
+</resources>
